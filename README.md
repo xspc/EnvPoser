@@ -5,10 +5,12 @@
 <div>
     <a href='https://xspc.github.io/' target='_blank'>Songpengcheng Xia<sup></sup></a>&emsp;
     <a target='_blank'>Yu Zhang<sup></sup></a>&emsp;
-    <a target='https://suzhuo.github.io/' target='_blank'>Zhuo Su<sup>*</sup></a>&emsp;
+    <a href='https://suzhuo.github.io/' target='_blank'>Zhuo Su<sup>*</sup></a>&emsp;
     <a target='_blank'>Xiaozheng Zheng<sup></sup></a>&emsp;
     <a target='_blank'>Zheng Lv<sup></sup></a>&emsp;
     <a target='_blank'>Guidong Wang<sup></sup></a>&emsp;
+</div>
+<div>
     <a target='_blank'>Yongjie Zhang<sup></sup></a>&emsp;
     <a href='https://sjtu-robotics.com/zh/' target='_blank'>Qi Wu<sup></sup></a>&emsp;
     <a href='https://scholar.google.com.hk/citations?user=HgZ0wNwAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Lei Chu<sup></sup></a>&emsp;
