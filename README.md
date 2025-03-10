@@ -11,7 +11,7 @@
     <a target='_blank'>Guidong Wang<sup></sup></a>&emsp;
     <a target='_blank'>Yongjie Zhang<sup></sup></a>&emsp;
     <a href='https://sjtu-robotics.com/zh/' target='_blank'>Qi Wu</a>&emsp;
-    <a href='https://scholar.google.com.hk/citations?user=HgZ0wNwAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Lei Chu<sup>*</sup></a>&emsp;
+    <a href='https://scholar.google.com.hk/citations?user=HgZ0wNwAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Lei Chu<sup></sup></a>&emsp;
     <a href='https://scholar.google.com.hk/citations?user=Vm7d2EkAAAAJ&hl=zh-CN&oi=ao' target='_blank'>Ling Pei<sup>†</sup></a>&emsp;
 </div>
 <div>
@@ -23,7 +23,7 @@
 </div>
 
 <div>
-    :star_struck: <strong>Accepted to CVPR 2024</strong>
+    :star_struck: <strong>Accepted to CVPR 2025</strong>
 </div>
 
 <h4 align="center">
