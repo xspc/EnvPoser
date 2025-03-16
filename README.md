@@ -44,7 +44,7 @@ We tested our code on Windows with `Python 3.8.15`, `Pytorch 1.10.2` with `cuda1
 
 ```python
 conda create -n dynaip python==3.8.15
-conda activate dynaip
+conda activate envposer
 pip install torch==1.10.2+cu111 torchvision==0.11.3+cu111 torchaudio==0.10.2 -f https://download.pytorch.org/whl/cu111/torch_stable.html
 pip install -r requirements.txt
 ```
