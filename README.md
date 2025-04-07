@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 We used publicly available EgoBody and GIMO datasets to train and evaluate our model. You can download the raw data from:
 
-+ EgoBody: https://zenodo.org/records/3254403 (xsens_mvnx.zip)
++ EgoBody: https://zenodo.org/records/3254403 
 
 
 Clone this repo, download the above datasets, extract and place them in `./datasets/raw/`.
