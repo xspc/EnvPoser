@@ -29,7 +29,7 @@
 </div>
 
 <h4 align="center">
-  <a href="https://www.youtube.com/watch?v=88_CyBNtEe8&t=168s" target='_blank'>[Demo]</a> •
+  <a href="https://youtu.be/iEFGLMADlwU" target='_blank'>[Demo]</a> •
   <a href="https://arxiv.org/abs/2412.10235" target='_blank'>[arXiv]</a>
 </h4>
 
